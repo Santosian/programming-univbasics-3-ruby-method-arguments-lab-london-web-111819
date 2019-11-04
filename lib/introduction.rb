@@ -5,7 +5,7 @@
 
 
 
-#def greeting_and_presentation(name, )
+#def introduction(name)
 #  puts "Hi, my name is #{name}"
 #end
 
@@ -21,11 +21,6 @@
 #end
 
 #introduction_with_language("Santiago")
-
-
-
-
-
 
 
 def introduction_with_language(name, language = 'Ruby')
