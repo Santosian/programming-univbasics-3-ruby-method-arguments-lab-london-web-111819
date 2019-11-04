@@ -5,18 +5,18 @@
 
 
 
-#def introduction(name)
-#  puts "Hi, my name is #{name}"
-#end
+def introduction(name)
+ puts "Hi, my name is #{name}"
+end
 
-#greeting_and_presentation("Santiago")
-
-
+greeting_and_presentation("Santiago")
 
 
 
 
-#def introduction_with_language(name, language = 'Ruby')
+
+
+def introduction_with_language(name, language = 'Ruby')
 #  puts "Hi, my name is #{name} and i am learning to program in #{language}"
 #end
 
